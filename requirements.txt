@@ -1,0 +1,15 @@
+google_adk==1.0.0
+fastapi>=0.68.0
+uvicorn>=0.15.0
+starlette>=0.14.2
+python-multipart>=0.0.5
+nest_asyncio>=1.5
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.10
+opik
+composio-google-adk==0.8.2
+composio==0.8.2
+anthropic[vertex]
+deprecated
+
+
